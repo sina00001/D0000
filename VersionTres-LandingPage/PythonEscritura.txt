@@ -30,14 +30,3 @@ HolaMundo27
 HolaMundo28
 HolaMundo29
 HolaMundo30
-
-HolaMundo31
-HolaMundo32
-HolaMundo33
-HolaMundo34
-HolaMundo35
-HolaMundo36
-HolaMundo37
-HolaMundo38
-HolaMundo39
-HolaMundo40
